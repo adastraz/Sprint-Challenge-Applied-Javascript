@@ -17,3 +17,11 @@
     <div class="right-button"> > </div>
   </div>
 */
+const img = [
+  "./assets/carousel/mountains.jpeg" 
+  "./assets/carousel/computer.jpeg" 
+  "./assets/carousel/trees.jpeg" 
+  "./assets/carousel/turntable.jpeg" 
+]
+
+const carousel = document.createElement
